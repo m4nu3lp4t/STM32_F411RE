@@ -1,0 +1,11 @@
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\bin\Debug\UART_FORM.exe.config
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\bin\Debug\UART_FORM.exe
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\bin\Debug\UART_FORM.pdb
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.csproj.AssemblyReference.cache
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.csproj.SuggestedBindingRedirects.cache
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.Form1.resources
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.Properties.Resources.resources
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.csproj.GenerateResource.cache
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.csproj.CoreCompileInputs.cache
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.exe
+D:\[ SW ]\[  .NET Visual Studio ]\UART_FORM\obj\Debug\UART_FORM.pdb
